@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ShopPracticesMonolitic\\ShopPracticesMonolitic\\ShopPracticesMonolitic.csproj": {}
+    "C:\\ShopPracticeMonolitic\\ShopPracticesMonolitic\\ShopPracticesMonolitic.csproj": {}
   },
   "projects": {
-    "C:\\ShopPracticesMonolitic\\ShopPracticesMonolitic\\ShopPracticesMonolitic.csproj": {
+    "C:\\ShopPracticeMonolitic\\ShopPracticesMonolitic\\ShopPracticesMonolitic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ShopPracticesMonolitic\\ShopPracticesMonolitic\\ShopPracticesMonolitic.csproj",
+        "projectUniqueName": "C:\\ShopPracticeMonolitic\\ShopPracticesMonolitic\\ShopPracticesMonolitic.csproj",
         "projectName": "ShopPracticesMonolitic",
-        "projectPath": "C:\\ShopPracticesMonolitic\\ShopPracticesMonolitic\\ShopPracticesMonolitic.csproj",
-        "packagesPath": "C:\\Users\\delio\\.nuget\\packages\\",
-        "outputPath": "C:\\ShopPracticesMonolitic\\ShopPracticesMonolitic\\obj\\",
+        "projectPath": "C:\\ShopPracticeMonolitic\\ShopPracticesMonolitic\\ShopPracticesMonolitic.csproj",
+        "packagesPath": "C:\\Users\\daine\\.nuget\\packages\\",
+        "outputPath": "C:\\ShopPracticeMonolitic\\ShopPracticesMonolitic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\delio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\daine\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
